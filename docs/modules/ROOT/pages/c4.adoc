@@ -1,0 +1,36 @@
+= C4
+:description: The architecture of playromme.com
+:page-tags: romme
+
+== Context
+
+[c4plantuml,format=svg,target=c4 context]
+....
+@startuml C4_Elements
+!include c4_container.puml
+
+title Context diagram for Romme
+
+Person(player_a, "Player A", "A player of the game Romme.")
+Person(player_b, "Player B", "A player of the game Romme.")
+System(romme_system, "Romme System", "Allows players to play Romme together.")
+
+Rel(player_a, romme_system, "Plays move")
+Rel(romme_system, player_b, "Notifies about move by player A")
+
+@enduml
+....
+
+== Containers
+
+..
+
+== Components
+
+..
+
+== Code
+
+..
+
+

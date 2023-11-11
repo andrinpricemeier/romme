@@ -1,0 +1,32 @@
+= How to play
+:description: How to play Romme.
+:page-tags: romme
+
+== Introduction
+
+This page describes the rules of Rommé that https://playromme.com[Play Rommé!] implements.
+
+=== Decks
+
+Romme is usually played with two card decks including Jokers.
+
+=== Goal
+
+The goal of each player is to get rid of all of his cards faster than all the other players.
+As soon as one player doesn't have anymore cards, the current round is over and the points of the remaining cards are counted.
+
+=== Number of rounds
+
+There is no predefined number of rounds that can be played. The game ends after the last round that all players agree on.
+
+=== Usual game flow
+
+An example for a normal round is as follows:
+
+* Someone is chosen to begin the round and given an additional card
+* All other players receive 12 cards, the one who starts the round is given 13
+* Every player has to first "enter the game" by achieving a score of 30 points with at least three cards
+* Only after the game has "entered the game" is he allowed to add his cards to already existing decks placed on the game board
+* When it's a player's turn he has to first either pick a card from the card deck or pick up the card given away by the previous player
+* If he can win and finish the round, he can also pick a separate card placed next to the card deck
+* After each round a player has to give away one card

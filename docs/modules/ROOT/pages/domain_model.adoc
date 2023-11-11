@@ -1,0 +1,12 @@
+= Domain Model
+:description: The vision of playromme.com
+:page-tags: romme
+
+This page describes the domain model implemented for playromme.com. The implementation tries to follow DDD best practices and uses its concepts (such as aggregates).
+
+[plantuml,format=svg,target=domain model]
+....
+class Game
+class Card
+class CardDeck
+....

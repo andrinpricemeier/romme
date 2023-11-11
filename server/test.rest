@@ -1,0 +1,16 @@
+# This file can be used to test REST endpoints locally
+# Requirements: The REST extension in VSCode.
+
+@host = http://localhost:8080
+#@host = https://api.playromme.com
+
+### Test players endpoint
+POST {{host}}/players HTTP/1.1
+Content-Type: application/json
+
+{
+    "username": "myname"
+}
+
+### Test games endpoint
+POST {{host}}/games HTTP/1.1

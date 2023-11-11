@@ -1,0 +1,7 @@
+= Vision
+:description: The vision of playromme.com
+:page-tags: romme
+
+playromme.com strives to enable users to easily and quickly play a game of rommé with their friends without having to deal with formalities such as registering a user.
+
+
